@@ -1,7 +1,7 @@
   👋 Hi, I’m @thauanaformiga! 
   I'm a beginner in the development world, and I'm here to post my studies and learn a lot more. 
 
-  👀 I’m interested in FrontEnd and BackEnd Development, and these are my career goals. 
+  👀 I’m interested in FrontEnd Development. 
 
   🌱 I’m currently learning about HTML, CSS, Javascript, NodeJS and React Native. 
 
